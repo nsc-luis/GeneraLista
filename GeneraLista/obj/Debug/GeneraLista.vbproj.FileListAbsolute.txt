@@ -1,0 +1,38 @@
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\bin\Debug\GeneraLista.exe.config
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\bin\Debug\GeneraLista.exe
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\bin\Debug\GeneraLista.pdb
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\bin\Debug\GeneraLista.xml
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\obj\Debug\GeneraLista.Form1.resources
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\obj\Debug\GeneraLista.Resources.resources
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\obj\Debug\GeneraLista.vbproj.GenerateResource.Cache
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\obj\Debug\GeneraLista.exe
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\obj\Debug\GeneraLista.xml
+c:\users\zeus\documents\visual studio 2015\Projects\GeneraLista\GeneraLista\obj\Debug\GeneraLista.pdb
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\GeneraLista\GeneraLista\obj\Debug\GeneraLista.vbprojResolveAssemblyReference.cache
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\GeneraLista\GeneraLista\obj\Debug\GeneraLista.config.resources
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\bin\Debug\GeneraLista.exe.config
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\bin\Debug\GeneraLista.exe
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\bin\Debug\GeneraLista.pdb
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\bin\Debug\GeneraLista.xml
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.vbprojAssemblyReference.cache
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.config.resources
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.Form1.resources
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.Resources.resources
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.vbproj.GenerateResource.cache
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.vbproj.CoreCompileInputs.cache
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.exe
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.xml
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\GeneraLista\GeneraLista\obj\Debug\GeneraLista.pdb
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\bin\Debug\GeneraLista.exe.config
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\bin\Debug\GeneraLista.exe
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\bin\Debug\GeneraLista.pdb
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\bin\Debug\GeneraLista.xml
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.vbprojAssemblyReference.cache
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.config.resources
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.Form1.resources
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.Resources.resources
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.vbproj.GenerateResource.cache
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.vbproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.exe
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.xml
+C:\Users\Propietario\Desktop\GeneraLista\GeneraLista\obj\Debug\GeneraLista.pdb
